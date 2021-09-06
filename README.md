@@ -1,6 +1,6 @@
-#Estudos de Java - Curso em video
+# Estudos de Java - Curso em video
 
-## Visibilidade
+## Visibilidade - Aula 3
 
 - public - Todos tem acesso
 - private - Só a Classe mãe tem acesso

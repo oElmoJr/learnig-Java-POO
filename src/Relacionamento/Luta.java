@@ -2,7 +2,7 @@ package Relacionamento;
 
 import java.util.Random;
 
-public class Lutali {
+public class Luta {
     
     private Lutador desafiado, desafiante;
     private int round;
@@ -59,7 +59,7 @@ public class Lutali {
         return desafiado;
     }
     public void setDesafiado(Lutador desafiado) {
-        this.desafiado = desafiado;
+        this.desafiado = desafiado; 
     }
 
     public Lutador getDesafiante() {

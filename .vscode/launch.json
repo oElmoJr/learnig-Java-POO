@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Launch App",
       "request": "launch",
+      "mainClass": "exercicios.App",
+      "projectName": "Estudos-de-Java-CursoEmVideo_ad8f56a1"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
       "mainClass": "Relacionamento.App",
       "projectName": "Estudos-de-Java-CursoEmVideo_ad8f56a1"
     },

@@ -40,4 +40,10 @@ public class Pessoa {
     public int getIdade() {
         return idade;
     }
+
+    @Override
+    public String toString() {
+       return "Pessoa {\n" + " nome: " + nome + "\n idade: " + idade + "\n Sexo: " + sexo + "\n}\n\n";
+    }
+
 }
